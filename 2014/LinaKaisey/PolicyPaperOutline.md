@@ -35,7 +35,50 @@
 
 ### i. Anchoring Privacy Legal Issues to Big Data Scenarios
 
-Track generally to the anchoring scenarios used by [MIT Big Data Privacy WG](https://github.com/LegalScience/BigDataPrivacy/blob/master/BigDataPrivacyWG.md) 
+
+Scenario Description Method:
+
+1. Components of scenario[d]
+
+## **Actors?**
+(ie: Who are the parties, their respective roles and relationships?  Who is data owner?  Who is using the data? Who are the data subjects?)
+## **Interactions?**
+(ie: What transactions or other exchanges between Actors?)
+##**Data?**
+(ie: What kind of personal data?  What is type of big data models, analytics or other outputs result from this scenario? What’s the Data Lifecycle?[j] What constraints apply:  e.g. Retention, liability for breach, and accuracy?)
+## **Systems?**>
+(ie What business, legal, technical or social system matter most?)
+   * Business Systems (Ethics committees, sign-off by authorized officers, record keeping, audit) 
+   * Legal Systems (Contracts, Employee rules/procedures, certification/accreditations, compliance reviews, insurance/bonding requirements, industry standard policy/guidelines, etc) 
+   * Technical Systems (System permissions and security, alarms & automated detection of PAI, automatic anonymization of data, cryptography, etc) 
+   * Social Systems (What social systems and context exists?)
+
+
+## 2. Analysis of scenario
+
+
+* Goals (ie: What are the incentives and the benefits driving the Actors? who benefits? what are financial incentives?)
+* Rules: (ie: What are the relevant laws and regulations, other enforceable rules)
+* Risks: What are the risks? To whom? If the risk is an externality, how might it be mitigated?[o][p][q][r][s][t]
+
+
+## 3. Assessment of scenario
+
+
+### Existing or related best practices for context of this scenario
+
+   * What business, legal and/or technical best practices 
+
+### Gap
+   * Issues Not Addressed by Existing Practices and Solutions
+   * Short Fall Between Current and Needed Practices and Solutions
+
+**Track generally to the anchoring scenarios used by [MIT Big Data Privacy WG](https://github.com/LegalScience/BigDataPrivacy/blob/master/BigDataPrivacyWG.md)**
+
+
+**Instructions:**
+Use the elements (context, practice and gap) in the privacy impact assessment above to create a structured assessment of the scenario you are working on. The objective is to produce something analogous to an abstract for a conference paper or the executive summary for a board paper. Check that each section for the assessment of a scenario has attempted to address each of the questions or examples in the sub bullets of the elements.
+
 
 * Scenario 1: 
 
