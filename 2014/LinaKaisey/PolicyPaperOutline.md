@@ -35,8 +35,11 @@
 
 ### i. Anchoring Privacy Legal Issues to Big Data Scenarios
 
-* Scenario 1
-* Scenario 2
+Track generally to the anchoring scenarios used by [MIT Big Data Privacy WG](https://github.com/LegalScience/BigDataPrivacy/blob/master/BigDataPrivacyWG.md) 
+
+* Scenario 1: 
+
+* Scenario 2: 
 
 ### ii. Current Best Practices and Standards Related to the Issues
 
