@@ -46,7 +46,7 @@ Scenario Description Method:
 (ie: What transactions or other exchanges between Actors?)
 ##**Data?**
 (ie: What kind of personal data?  What is type of big data models, analytics or other outputs result from this scenario? What’s the Data Lifecycle?[j] What constraints apply:  e.g. Retention, liability for breach, and accuracy?)
-## **Systems?**>
+## **Systems?**
 (ie What business, legal, technical or social system matter most?)
    * Business Systems (Ethics committees, sign-off by authorized officers, record keeping, audit) 
    * Legal Systems (Contracts, Employee rules/procedures, certification/accreditations, compliance reviews, insurance/bonding requirements, industry standard policy/guidelines, etc) 
@@ -73,16 +73,22 @@ Scenario Description Method:
    * Issues Not Addressed by Existing Practices and Solutions
    * Short Fall Between Current and Needed Practices and Solutions
 
+----
+
 **Track generally to the anchoring scenarios used by [MIT Big Data Privacy WG](https://github.com/LegalScience/BigDataPrivacy/blob/master/BigDataPrivacyWG.md)**
 
 
 **Instructions:**
 Use the elements (context, practice and gap) in the privacy impact assessment above to create a structured assessment of the scenario you are working on. The objective is to produce something analogous to an abstract for a conference paper or the executive summary for a board paper. Check that each section for the assessment of a scenario has attempted to address each of the questions or examples in the sub bullets of the elements.
 
-
+----
 * Scenario 1: 
 
+----
 * Scenario 2: 
+
+----
+
 
 ### ii. Current Best Practices and Standards Related to the Issues
 
