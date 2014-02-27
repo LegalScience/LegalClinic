@@ -101,9 +101,7 @@ ii. Data is shared with the government/corporation in an aggregated, anonymous w
 iii. Government/corporation uses data to add value for businesses
 
 
-## d. Current example: Kansas Personal Data Store (PDS) for Small Businesses
-
-## e. Public Trust Company Framework
+## d. Public Trust Company Framework
 
 # 5. An Integrated Privacy Legal Framework
 
