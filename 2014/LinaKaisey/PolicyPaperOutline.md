@@ -7,29 +7,42 @@
 
 # 1. Introduction and Underlying Principles
 
-## a. Trust Networks
+## a. Social Physics Perspective
 
-i. Combination of contract law and computer science principles
+### i. Trust Networks
 
-ii. Individuals have different “rings” (exchange networks) for different facets of life
+* Combination of contract law and computer science principles
 
-## b. Analogue between information as we might conceive it, and money as we currently conceive it:
+* Individuals have different “rings” (exchange networks) for different facets of life
 
-i. Money: Given to a bank until individual wishes to withdraw it. Bank retains general/aggregate info even after money is withdrawn, but bank does not retain money. Individual knows where money goes and who holds it.
+### ii.Analogue between information as we might conceive it, and money as we currently conceive it:
 
-ii. Same with entities holding your information: retain only aggregate information; individual can decide to sever ties and withdraw individual information 
+* Money: Given to a bank until individual wishes to withdraw it. Bank retains general/aggregate info even after money is withdrawn, but bank does not retain money. Individual knows where money goes and who holds it.
 
-## c. Davos standards
+* Same with entities holding your information: retain only aggregate information; individual can decide to sever ties and withdraw individual information 
 
-i. Provenance
+### iii Davos standards
 
-ii. Permissions
+* Provenance
 
-iii. Auditable 
+* Permissions
 
-iv. Do not track
+* Auditable 
 
+* Do not track
 
+## b. Background and context
+
+### i. Anchoring Privacy Legal Issues to Big Data Scenarios
+
+* Scenario 1
+* Scenario 2
+
+### ii. Current Best Practices and Standards Related to the Issues
+
+* Anonymize and Aggregate,
+* ETC
+* Promsing Legal Reforms, eg: FIDUCIARY ACCESS TO DIGITAL ASSETS ACT
 
 # 2. Government Collection of Data: Metadata on the Metadata
 
@@ -92,4 +105,8 @@ iii. Government/corporation uses data to add value for businesses
 
 ## e. Public Trust Company Framework
 
-# 5. Scenarios
+# 5. An Integrated Privacy Legal Framework
+
+[Describe how this the parts comprise a holistic, sustainable well adapted system]
+
+
