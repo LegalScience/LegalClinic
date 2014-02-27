@@ -90,4 +90,6 @@ iii. Government/corporation uses data to add value for businesses
 
 ## d. Current example: Kansas Personal Data Store (PDS) for Small Businesses
 
+## e. Public Trust Company Framework
+
 # 5. Scenarios
