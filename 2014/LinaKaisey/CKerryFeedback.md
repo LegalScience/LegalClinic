@@ -1,4 +1,4 @@
-# New deal on data presumes its our data, but is it? Consider:
+# New deal on data presumes it's our data, but is it? Consider:
 * IP law; 3rd party doctrine; notions of confidentiality and trust
 * there's a sliding scale, contextual, depends on data subject and type of data
 * Touchstone standard: FIPS. Starting point for privacy bill of rights, privacy directive 95, and a lot of best practices 
