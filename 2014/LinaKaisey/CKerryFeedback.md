@@ -9,4 +9,10 @@
 * when third party gets it? depending on TOS? when third party performs some analysis on the data?
 * Smith v. Maryland; U.S. v. Miller - phone and bank records, respectively. Call records existed apart from customer accounts. Makes it more ambiguous as to whether records or personal data.
 * when the property interest in information changes as a result of the content being changed (in parody cases, etc)
-* compulsory license
+* compulsory license - situations in which the user continues to have a right to use something, even if they have to pay. 
+* This is a form of intangible property, lots of law about intangible property -- financial assets, intellectual assets
+
+# Outline: Who Owns Data?
+## New Deal on Data Presumes that Data is each individual's property right
+## Analogous areas of law that inform this property right presumption
+## Use cases that elucidate the sliding scale determining property ownership
