@@ -19,6 +19,7 @@
 * What does the bundle of rights actually include?: right to request and receive a copy of the data (FIPS); right to know who has the data; right to know who has access to it and why (starts with federal privacy act of 1974) 
 * within personal property, precepts that apply to personal property. Finder's rights. Coherent, complete body of law, that is not the same and has different legal results than copyright law. What is property law, what is personal property law, and how does it apply (assuming that copyright law doesn't exist)? What are the sets of rights and obligations among various actors, as it applies to our personal data? 
 * Performing asset and intangible properties 
+* Fiduciary rights to digital asset class 
 
 # Outline: Who Owns Data?
 ## New Deal on Data Presumes that Data is each individual's property right
