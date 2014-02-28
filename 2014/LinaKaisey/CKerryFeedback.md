@@ -11,6 +11,9 @@
 * when the property interest in information changes as a result of the content being changed (in parody cases, etc)
 * compulsory license - situations in which the user continues to have a right to use something, even if they have to pay. 
 * This is a form of intangible property, lots of law about intangible property -- financial assets, intellectual assets
+* Give individuals the benefit of big data at same time as allowing flow to data commons
+* Danny Weitzner - accountability mechanisms. If you have metadata about provenance and privacy, then have an ability to know where data is going.
+* Posner's essay on low importance of privacy -- economic theory of privacy: information is a public good, http://object.cato.org/sites/cato.org/files/serials/files/regulation/1978/5/v2n3-4.pdf
 
 # Outline: Who Owns Data?
 ## New Deal on Data Presumes that Data is each individual's property right
