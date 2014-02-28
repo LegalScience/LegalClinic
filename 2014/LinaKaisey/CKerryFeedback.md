@@ -14,6 +14,10 @@
 * Give individuals the benefit of big data at same time as allowing flow to data commons
 * Danny Weitzner - accountability mechanisms. If you have metadata about provenance and privacy, then have an ability to know where data is going.
 * Posner's essay on low importance of privacy -- economic theory of privacy: information is a public good, http://object.cato.org/sites/cato.org/files/serials/files/regulation/1978/5/v2n3-4.pdf
+* European model: Lisbon treaty (data ownership is a fundamental right); data privacy directive (any data collection must have a legal basis)
+* In contrast to European regime, data collection has no legal basis here. In property, have a bundle of rights and then the overlay of law that actually protects those rights. Broad anologies from other legal regimes help see how to structure the privacy regime. What are some of the rights as we look across regimes that generally get conferred?
+* What does the bundle of rights actually include?: right to request and receive a copy of the data (FIPS); right to know who has the data; right to know who has access to it and why (starts with federal privacy act of 1974) 
+* within personal property, precepts that apply to personal property. Finder's rights. Coherent, complete body of law, that is not the same and has different legal results than copyright law. What is property law, what is personal property law, and how does it apply (assuming that copyright law doesn't exist)? What are the sets of rights and obligations among various actors, as it applies to our personal data? 
 
 # Outline: Who Owns Data?
 ## New Deal on Data Presumes that Data is each individual's property right
