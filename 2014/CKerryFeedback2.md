@@ -1,3 +1,7 @@
+# Rights framework (civil rights)
+# Property framework (water rights; trust law)
+# Interests-based (regulatory; public interest in the use of the data, as well as individual interests that are at stake -- hybrid)
+
 * Private right of action - Consumer financial protection and FTC can vindicate right without much cost. 
 * State data breach laws and exposure to class action liability are big driver of data laws
 * Private sector support for legislation would evaporate if there existed a private right of action
