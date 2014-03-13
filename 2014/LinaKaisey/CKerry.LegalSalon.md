@@ -14,10 +14,10 @@
 * Move forward with legislation: enact the privacy bill of rights to balance the marketplace and empower individuals. 
 * Legal science and tech can implement principles of the privacy bill of rights through tech
 * Lesson of big data: must move away from simple, notice and consent regime, to one that gives more force to other principles included in FIPPs and privacy bill of rights. This includes:
-
 * Respect for Context: the use of the data should be consistent with the context in which the data was provided (includes the nature of the relationship between customer and vendor, etc)
 * Tech solutions: Use of privacy metadata to help validate that privacy protections are being observed. 
 * ID^3: Rules-baesd mechanisms to understand what privacy rules apply based on location. If you have a cellular customer in Europe, where different rules apply depending on jurisdiction -- need to correlate with location information to help ensure compliance. 
+
 * Motivating question at medialab: How can technology put into practice the consumer privacy bill of rights?
 * Legal paradigms: Miller case and third party doctrine. Now that we share information with a range of third party providers, old paradigms no longer work. 
 * §215 collection by NSA suggest that president has a different view of this type of collection. 
