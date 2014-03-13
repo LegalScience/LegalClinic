@@ -20,6 +20,6 @@
 
 * Motivating question at medialab: How can technology put into practice the consumer privacy bill of rights?
 * Legal paradigms: Miller case and third party doctrine. Now that we share information with a range of third party providers, old paradigms no longer work. 
-* §215 collection by NSA suggest that president has a different view of this type of collection. 
+* President Obama's discussion of §215 collection by NSA suggest that president has a different view of this type of collection. 
 * Data discussions in Europe are moving forward
 
