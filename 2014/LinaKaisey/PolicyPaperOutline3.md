@@ -5,7 +5,8 @@ CFK comments:
 * Wellsian fairness notions in the privacy context. Implied covenant of good faith and fair dealing. MA law and other jurisdictions on contracts. Even non-adhesive contracts.  Most implied covenants of good faith and fair dealing are in business hiring practice
 
 * generally give context on the areas and apply them to the Big Data context 
-* Griswold and penumbras -- not that there are penumbral rights, but that people don't think in terms of particular constitutional interests (eg associational interests, etc) but penumbras of 1st 4th 9th (6th?) amendments give rise to associational, expressional, etc issues
+
+* Griswold and penumbras -- not that there are penumbral rights, but that people don't think in terms of particular constitutional interests (eg associational interests, etc) but penumbras of 1st 4th 9th (6th?) amendments give rise to associational, expressional, etc issues. Eg 5th self-incrimination
 
 -------
 
