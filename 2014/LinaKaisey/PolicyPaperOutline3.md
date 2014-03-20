@@ -14,6 +14,8 @@ CFK, DG comments:
 
 * Different perspectives in the various abstracts of book draft
 
+* Work in 3 prongs of Sandy's analysis if it works to refine. Don't bend legal paper toward the answer but include "here's what Sandy Pentland has suggested and here are some of the assumptions that underly it -- what are the legal issues?"
+
 -------
 
 Much has been said about the necessity of a legal framework surrounding Big Data, yet there is no clear introduction for non-lawyers to think about the legal assumptions that will underlie such a framework. This paper fills that gap by laying out the tenets of three sets of legal rights that might serve as the foundation for a right in personal data. First, a property-based conception of rights puts data in the purview of the individual, meaning that an individual may bargain away those rights as she sees fit. Second, a “civil rights”-based conception of rights assumes that the individual’s right to data privacy is too fundamental for society to allow it to be bargained away. Finally, an interests-based notion recognizes that an individual’s interest in their data, while purely individual in theory, has pragmatic effects on society such that society must place its hand in the market that regulates the vindication of the right.
