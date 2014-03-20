@@ -1,4 +1,4 @@
-CFK comments:
+CFK, DG comments:
 
 * consumer contract and warranty clause issues that come up in consumer context. Courts willingness to apply contract terms.
 
@@ -7,6 +7,8 @@ CFK comments:
 * generally give context on the areas and apply them to the Big Data context 
 
 * Griswold and penumbras -- not that there are penumbral rights, but that people don't think in terms of particular constitutional interests (eg associational interests, etc) but penumbras of 1st 4th 9th (6th?) amendments give rise to associational, expressional, etc issues. Eg 5th self-incrimination
+
+* clusters of scenarios: consumer; national surveillance; genomics. Individuals have roles within those clusters (eg patient informed consent; buyer and seller)
 
 -------
 
