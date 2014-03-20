@@ -10,7 +10,7 @@ CFK, DG comments:
 
 * "big clusters" of factual scenarios: consumer; national surveillance; genomics. Individuals have roles within those clusters (eg patient informed consent; buyer and seller). Follow a set of data around the internet and see how it implicates various types of rights, like IP rights and then constitutional rights, etc. NSA, FERPA/MOOCs, CPRB etc. 
 
-*Problems with particular models
+* Problems with particular models - eg land and water rights leaves individuals out. Corporations rely upon it but it can result in appropriation
 
 -------
 
