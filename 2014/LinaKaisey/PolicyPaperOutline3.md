@@ -14,7 +14,7 @@ CFK, DG comments:
 
 * Different perspectives in the various abstracts of book draft
 
-* Work in 3 prongs of Sandy's analysis if it works to refine. Don't bend legal paper toward the answer but include "here's what Sandy Pentland has suggested and here are some of the assumptions that underly it -- what are the legal issues?"
+* Work in 3 prongs of Sandy's analysis if it helps to refine framework. Don't bend legal paper toward the answer but include "here's what Sandy Pentland has suggested and here are some of the assumptions that underly it -- what are the legal issues?"
 
 -------
 
