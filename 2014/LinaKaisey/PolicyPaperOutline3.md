@@ -8,7 +8,9 @@ CFK, DG comments:
 
 * Griswold and penumbras -- not that there are penumbral rights, but that people don't think in terms of particular constitutional interests (eg associational interests, etc) but penumbras of 1st 4th 9th (6th?) amendments give rise to associational, expressional, etc issues. Eg 5th self-incrimination
 
-* clusters of scenarios: consumer; national surveillance; genomics. Individuals have roles within those clusters (eg patient informed consent; buyer and seller). Follow a set of data around the internet and see how it implicates various types of rights, like IP rights and then constitutional rights, etc. NSA, FERPA/MOOCs, CPRB etc
+* "big clusters" of factual scenarios: consumer; national surveillance; genomics. Individuals have roles within those clusters (eg patient informed consent; buyer and seller). Follow a set of data around the internet and see how it implicates various types of rights, like IP rights and then constitutional rights, etc. NSA, FERPA/MOOCs, CPRB etc. 
+
+*Problems with particular models
 
 -------
 
