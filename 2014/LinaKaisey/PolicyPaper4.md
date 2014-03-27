@@ -1,3 +1,28 @@
+# Comments CK DG:
+
+* review article: Paul M. Schwartz, Information Privacy in the Cloud
+
+* Use visual data flows to think of points of law that are relevant.
+
+* Add more to the constitutional right to privacy section. [reproductive rights cases have moved toward a liberty theory and away from privacy. Cam sees this as validating his take, but not gospel. particular aspects of privacy are rooted in fourth amendment interests. penumbras = interests = constitutional interests]
+
+* LIMITS OF THE LAW
+- Definition of a trust network
+- "things don't ripen" 
+- we can have laws that are more or less innovation enhancing, and patent laws are more or less innovation enhancing -- that's the underlying theory. 
+- Sandy, Adopting privacy regulations would be innovation enhancing. Restricting business models is not necessarily restricting innovation. 95.67 - states developed digital signature legislation. Prong: pro-innovation policy making. have secretaries of state at state level develop guidelines for functional requirements fro e-notification and signatures, invite companies to invent and present things that would fit requirements. grant certification to companies that can rbly show that "yes, this was the business corp that did the filing."
+- state govts are the ones who impanel notaries. it fostered innovation. law was designed to foster innovation. 
+
+* Question: legal innovation at the municipal level. A: Keep the focus on the property area. can't solve all the privacy issues.
+
+* alienability section:  Data estate planning. Inalienability and alienability is related to heritability. if it's heritable, then there's the notion that it's transferable. 
+
+* Local law: Look to probate and the laws that regulate property. Local level: zoning. what you can and can't do with your property. Personal property tax. worth noting somewhere that it's an issue. if you treat data as a certain kind of property, it potentially becomes taxable. is it that kind of property? 
+BITCOIN IS PROPERTY AND NOT CURRENCY! People who do tax look at evaluation, numeration, quantification. can you value personal data? this is an issue that companies are struggling with. Companies: what do we do about our data assets? In probate: I give half my estate to jonny v sally -- how do we value bigger digital assets?
+
+* Repeat: Add more constitutional interests 
+
+
 # Introduction
 
 Much has been said about the necessity of a legal framework surrounding Big Data, yet there is no clear introduction for non-lawyers to think about the legal assumptions that will underlie such a framework. This paper fills that gap by giving an overview of analogous areas of law that a lawyer encountering the Wild West of Big Data policy for the first time will draw upon to make sense of it all. With this background, the business and technical actors who interface with lawyers in shaping A Big Data society will understand the background assumptions of their collaborators.
