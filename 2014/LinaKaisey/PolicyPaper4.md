@@ -56,6 +56,8 @@ Universal rights are similar to domestic constitutional rights, but differ in th
 This will be relevant in determining appropriate treatment of data, where different norms in different areas will result in different assumptions about how personal data should be treated. Poor understanding of different fundamental assumptions results in alienation of the other parties who also have a hand in determining how individuals’ personal data rights will take shape. 
 A frequent dichotomy set up in the context of personal data privacy is that between European data privacy norms and American ones. [. . .]. However, treating Europe as a monolith is erroneous.[. . .].
 
+[Insert discussion of separation of powers--where is policy created/implemented?]
+
 [Cut? # Interest-based Rights
 
 One means by which bodies of law grow is organically, through the proliferation of common law among courts.  A more typical model involves a legislative body creating law that is then interpreted and built upon by courts, with periodic checks by legislatures. For issue areas that affect a wide range of actors, a “fourth branch” of government—regulatory agencies—assume primary responsibility for promulgating and enforcing policies. The National Labor Relations Board and Federal Trade Commission are examples. Agency policies and rules are sometimes supplemented by criminal laws, and enforcement is coordinated among agency actors and general law enforcement.]
