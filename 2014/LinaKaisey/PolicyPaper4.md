@@ -22,7 +22,8 @@ Even in non-adhesive contracts, a fundamental tenet of commercial and contract l
 ## Alienability and Inalienability
 Property law tends to assume that society is best served when the restrictions on the trade of property are as few as possible. As a result, one of the largest sticks in the bundle of property rights is the right to alienability: the ability for an individual to trade away her interest in property whenever she sees fit, rather than when society allows her to do so. 
 This aspect of property rights gives concern to data privacy advocates who believe that it will make it too easy for individuals to give away access to their personal data. However, there are ways to mitigate this concern. The first and simplest is to recognize that courts have recognized that some property rights that are not so easily alienated. For example, 17 U.S.C.A. §§203(a), 304(c) affords individual authors to cancel any transfer of a copyright interest after a period of three years. 
-[Link to Personal Data use case?]
+
+[Link to Personal Data use case = . . .]
 
 ## Land and Water Rights
 
@@ -43,9 +44,10 @@ The innovation of using OpenPDS to store data reflects facets of both Trust law 
 Personal rights are considered more fundamental in comparison to property rights. As a result, an individual may not contract away certain personal rights in the same way she may contract away her property rights. Personal rights are reflective of societal norms and consistent among all people. Personal rights derive legitimacy from a sense of universal applicability rather than the power of legislatures and courts.
 
 ## Constitutional Rights
+
 	The rights that a nation holds most dear are often articulated in its Constitution. There United States Constitution does not explicitly mention “privacy.” Rather, the “specific guarantees in the Bill of Rights have penumbras, formed by emanations from those guarantees that help give them life and substance.”  The right to privacy is implicitly inferred in the overlapping penumbras created by explicit Constitutional rights.  
 Even for fundamental personal rights, there exist scenarios in which these rights come up against other pressing societal interests and must therefore be balanced against those interests. For example, First Amendment protections of free speech are not absolute: an individual’s interest in partaking in protected speech is balanced against the government’s interest in restricting the speech.  
-Depending on the individual right in question and the government interest it runs up against, courts employ varying levels of scrutiny to determine whether to accept or reject the governmental measure. [description of strict scrutiny].
+	Depending on the individual right in question and the government interest it runs up against, courts employ varying levels of scrutiny to determine whether to accept or reject the governmental measure. [description of strict scrutiny].
 This same balancing occurs in the context of personal data use: absolutist claims about individual data ownership crumble easily when access to data is necessary for government operations. In the constitutional context, the balancing in unforeseeable cases is done by courts. It remains to be seen where this balancing will occur in close questions  pitting individuals’ rights to data privacy against assumptions about how governments may operate. 
 
 ## Universal Rights
